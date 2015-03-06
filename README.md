@@ -1,7 +1,8 @@
 # parasoles-fotovoltaicos
 Simulación de producción instantánea e integrada en el tiempo de parasoles fotovoltaicos.
-
 Basado fundamentalmente en el sombreado mutuo de filas adyacentes.
+
+Se ha hecho uso de la librería JFreeChart para la generación de gráficos y parte del código adaptado de “Aplicación para el cálculo de la Probabilidad de Pérdida de Carga (LLP) de una instalación solar fotovoltaica” de Christine Stens y Manuel Ruiz Martínez, para la generación del código de las series de Aguiar.
 
 + Archivo matriz.java: define clase con métodos para trabajar con datos vectorizados.
 
